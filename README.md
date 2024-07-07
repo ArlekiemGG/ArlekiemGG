@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![<eguerra->'s 42 stats](https://badge.mediaplus.ma/darkblue/<eguerra->)](https://www.github.com/Arlekiemgg)
+[![<eguerra->'s 42 stats](https://badge.mediaplus.ma/darkblue/eguerra-)](https://www.github.com/Arlekiemgg)
 <!--
 **ArlekiemGG/ArlekiemGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
