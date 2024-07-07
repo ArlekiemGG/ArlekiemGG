@@ -1,4 +1,4 @@
-# Bienvenido/a a mi perfil! Lets go :)
+# Bienvenido/a a mi perfil!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arlekiemgg&label=Profile%20views&color=0e75b6&style=flat" alt="arlekiemgg" /> </p>
 
